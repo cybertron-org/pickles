@@ -13,7 +13,7 @@
             <div class="col-md-12">
                 <p>The page you are looking for can’t be found.</p>
                 <h1><span>4</span>0<span>4</span></h1>
-                <a class="btn-404" href="https://hoisolutions.com"><span class="fs-20">&#8592; </span>Back to Home</a>
+                <a class="btn-404" href="#"><span class="fs-20">&#8592; </span>Back to Home</a>
             </div>
         </div>
     </div>

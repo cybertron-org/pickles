@@ -1,4 +1,4 @@
-ï»¿<html lang="en-US">
+<html lang="en-US">
    
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -121,7 +121,7 @@ footer .chexck {
                         </div>
                         <div class="top-right col-md-4 text-right">
                            <ul>
-                              <li> <a class="toll_icon call-hiden-st" href="tel:(551) 290-8897">Toll Free (551) 290-8897</a> </li>
+                              <li> <a class="toll_icon call-hiden-st" href="tel:<?php echo $phone_number ?>">Toll Free <?php echo $phone_number ?></a> </li>
                               <li> <a class="chat_icon chat" onclick="LiveChatWidget.call('maximize');" href="javascript:;">Live Chat with Expert </a> </li>
                            </ul>
                         </div>
@@ -140,8 +140,8 @@ footer .chexck {
                            <div class="scroll-div">
                               <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@devpickles.com"  class="mail-link"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info@devpickles.com</span></a>
                               <div class="scroll-dinn">
-                                 <a href="tel:(551) 290-8897" name="199" title="Start Up Website Package - $199" class="various dinn-scr"></a>
-                                 <h4><i class="fa fa-phone" aria-hidden="true"></i>  <span>(551) 290-8897</span></h4>
+                                 <a href="tel:<?php echo $phone_number ?>" name="199" title="Start Up Website Package - $199" class="various dinn-scr"></a>
+                                 <h4><i class="fa fa-phone" aria-hidden="true"></i>  <span><?php echo $phone_number ?></span></h4>
                               </div>
                            </div>
                         </div>
@@ -749,8 +749,8 @@ footer .chexck {
                            <h6>Ready to Build Your Custom WordPress Website?</h6>
                            <h3>Grow with WordPress through our custom development, WooCommerce integration, and SEO optimization.</h3>
                            <a class="pop_btn gt-strt" href="javascript:;">Get Started </a>
-                           <a class="new-cta call-hiden-st" href="tel:(551) 290-8897">
-                           (551) 290-8897                                            </a>
+                           <a class="new-cta call-hiden-st" href="tel:<?php echo $phone_number ?>">
+                           <?php echo $phone_number ?>                                            </a>
                         </div>
                      </div>
                      <div class="col-md-6">
@@ -800,7 +800,7 @@ footer .chexck {
                         <div class="paright">
                            <h2>We Offer a Complete WordPress Toolkit</h2>
                            <p>
-                              Build a powerful WordPress site with our complete toolkit. We offer custom development, eCommerce solutions, and SEO optimization for your brandâ€™s growth.
+                              Build a powerful WordPress site with our complete toolkit. We offer custom development, eCommerce solutions, and SEO optimization for your brand’s growth.
                            </p>
                         </div>
                         <ul>
@@ -920,7 +920,7 @@ footer .chexck {
                         <div class="col-lg-5 my-auto">
                            <div class="contact-form">
                               <div class="content">
-                                 <h2 class="form-name">Got a WordPress Project? Weâ€™re Ready to Help!</h2>
+                                 <h2 class="form-name">Got a WordPress Project? We’re Ready to Help!</h2>
                                  <p>Tell us all about your WordPress project. We'll promptly get back to you with a tailored plan, whether it's a custom website, WooCommerce integration, SEO, or speed optimization. Connect with us now!
                                  </p>
                               </div>
@@ -985,7 +985,7 @@ footer .chexck {
             <footer>
                <div class="container">
                   <div class="chexck text-center">
-                     <p>Â© Copyrights 2025 | All Rights Reserved
+                     <p>© Copyrights 2025 | All Rights Reserved
                          Dev Pickles                     </p>
                      <!-- <div class="copyright_text text-center" bis_skin_checked="1">
                         <a class="text-white" href="https://premiumwebexperts.com/privacy-policy.php">Privacy Policy</a> |
@@ -999,13 +999,13 @@ footer .chexck {
       <div class="floatbutton">
          <div class="btns_wrap">
             <a href="javascript:;" class="chat chat_wrap" onclick="setButtonURL();"> <span class="icoo">                <i class="fa fa-comment"></i>                </span> <span>Chat With Us</span> </a>
-            <a href="tel:(551) 290-8897" class="call_wrap call-hiden-st"> <span class="icoo">                <i class="fa fa-phone"></i>                </span> <span> (551) 290-8897</span> </a>
+            <a href="tel:<?php echo $phone_number ?>" class="call_wrap call-hiden-st"> <span class="icoo">                <i class="fa fa-phone"></i>                </span> <span> <?php echo $phone_number ?></span> </a>
          </div>
          <!-- <div class="clickbutton">
             <div class="crossplus"> GET FREE CONSULTANCY</div>
          </div>
          <div class="banner-form">
-            <h3>Sign Up Now & <br>                    <strong>Letâ€™s Get Started</strong>                </h3>
+            <h3>Sign Up Now & <br>                    <strong>Let’s Get Started</strong>                </h3>
             <div class="banform">
                <div class="container">
                   <div class="row">
@@ -1074,7 +1074,7 @@ footer .chexck {
                   <h2 class="text-center">Our smart and friendly client support team is available to guide you through the creative process and answer all of your questions.</h2>
                   <form method="POST" action="https://premiumwebexperts.com/mail.php">
                      
-                     <div class="fldst btnattach"> <a class="callus call-hiden-st" href="tel:(551) 290-8897"> Free design consultation <i class="fa fa-phone"></i>(551) 290-8897 </a> </div>
+                     <div class="fldst btnattach"> <a class="callus call-hiden-st" href="tel:<?php echo $phone_number ?>"> Free design consultation <i class="fa fa-phone"></i><?php echo $phone_number ?> </a> </div>
                      <div class="fldst">
                         <p>Send us your number to speak with an actual human.</p>
                         <input  onkeypress="return event.charCode >= 48 &amp;&amp; event.charCode <= 57" name="pn" minlength="10" maxlength="12" type="text" placeholder="Your Phone" class="input" required="" >

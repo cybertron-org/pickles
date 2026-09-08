@@ -917,7 +917,7 @@ function sendEmail(
             <p><strong>Best regards,</strong><br>The Dev Pickles Team</p>
             <img src='https://devpickles.com/assets/images/logo1.jpg' alt='Dev Pickles' style='max-width: 200px;'>
             <p>Email: <a href='mailto:info@devpickles.com'>info@devpickles.com</a><br>
-            Phone: <a href='tel:(551) 290-8897'>(551) 290-8897</a><br>
+            Phone: <a href='tel:<?php echo $phone_number ?>'><?php echo $phone_number ?></a><br>
             Address: 530 Main St Unit 3A #289, Chester, NJ 07930, United States</p>
         ";
 

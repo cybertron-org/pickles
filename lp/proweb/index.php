@@ -83,7 +83,7 @@
                             </div>
                             <div class="top-right col-md-4 text-right">
                                 <ul>
-                                    <li><a class="toll_icon" href="tel:(551) 290-8897">Toll Free (551) 290-8897</a></li>
+                                    <li><a class="toll_icon" href="tel:<?php echo $phone_number ?>">Toll Free <?php echo $phone_number ?></a></li>
                                     <li>
                                         <a class="chat_icon chat" href="javascript:;" onclick="LiveChatWidget.call('maximize');">Live
                                             Chat with Expert</a>
@@ -662,7 +662,7 @@
                                     start-ups</h3>
                                 <a class="pop_btn gt-strt" onclick="openUniquePopup();" href="javascript:;">Get Started
                                 </a>
-                                <a class="new-cta" href="tel:(551) 290-8897"> (551) 290-8897 </a>
+                                <a class="new-cta" href="tel:<?php echo $phone_number ?>"> <?php echo $phone_number ?> </a>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -910,8 +910,8 @@
                     }
                 }
             </script>
-            <a href="tel:(551) 290-8897" class="call_wrap">
-                <span class="icoo"> <i class="fa fa-phone"></i> </span> <span> (551) 290-8897</span>
+            <a href="tel:<?php echo $phone_number ?>" class="call_wrap">
+                <span class="icoo"> <i class="fa fa-phone"></i> </span> <span> <?php echo $phone_number ?></span>
             </a>
         </div>
         <div class="clickbutton">
@@ -987,8 +987,8 @@
                             <input type="hidden" value="Amsterdam" name="city" />
                             <input type="hidden" value="/lp2/" name="pageurl" />
                             <div class="fldst btnattach">
-                                <a class="callus" href="tel:(551) 290-8897"> Free design consultation <i
-                                        class="fa fa-phone"></i>(551) 290-8897 </a>
+                                <a class="callus" href="tel:<?php echo $phone_number ?>"> Free design consultation <i
+                                        class="fa fa-phone"></i><?php echo $phone_number ?> </a>
                             </div>
                             <div class="fldst">
                                 <p>Send us your number to speak with an actual human.</p>

@@ -66,7 +66,7 @@
         </div>
 
         <div class="col-md-4 text-right">
-          <a href="tel:(551) 290-8897" class="btn-red pricing-toggle"> (551) 290-8897</a>
+          <a href="tel:<?php echo $phone_number ?>" class="btn-red pricing-toggle"> <?php echo $phone_number ?></a>
         </div>
 
       </div>
@@ -556,9 +556,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -595,9 +595,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -645,9 +645,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -693,9 +693,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -751,9 +751,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -805,9 +805,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -878,9 +878,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -927,9 +927,9 @@
             </ul>
             <p class="addontag"><strong>20%</strong> more OFF on Next Order</p>
             <div class="actions row">
-              <div class="col-md-6 "><a href="tel:(551) 290-8897" class="action-no clearfix pur"> <span><small>Speak
+              <div class="col-md-6 "><a href="tel:<?php echo $phone_number ?>" class="action-no clearfix pur"> <span><small>Speak
                       with
-                      us</small>+ (551) 290-8897</span></a></div>
+                      us</small>+ <?php echo $phone_number ?></span></a></div>
               <div class="col-md-6 "><a class="chat"> <span><small>For Rush Delivery</small> Live Chat Now</span></a>
               </div>
             </div>
@@ -1104,7 +1104,7 @@
           </h2>
           <p>Ask us anything, we have the friendliest customer service folks</p>
           <ul>
-            <li> <a href="tel:(551) 290-8897">(551) 290-8897</a> </li>
+            <li> <a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a> </li>
             <!-- <li>  <a href="mailto:info@devpickles.com">info@devpickles.com</a>
             </li> -->
           </ul>
@@ -1184,7 +1184,7 @@
         <div class="col-md-4 text-right">
           <h6>Stay Connected</h6>
           <ul class="ftr-social">
-            <li><a href="tel:(551) 290-8897"><i class="fas fa-phone-alt"></i> (551) 290-8897</a>   </li>
+            <li><a href="tel:<?php echo $phone_number ?>"><i class="fas fa-phone-alt"></i> <?php echo $phone_number ?></a>   </li>
             <li>
               <i class="far fa-envelope"></i>
               <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@devpickles.com" target="_blank">

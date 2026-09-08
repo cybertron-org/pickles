@@ -12,12 +12,16 @@
     <div class="container-fluid">
         <div class="banner-content pb-20 sm-pt-130 tb-pt-180">
             <h1 class="fs-55 fs-20m tb-fs-40 text-center z-index-1 text-white wow fadeInUp">
-                <span class="web-color">Elevating Businesses </span>Through<br>Tailored Tech Solutions
+                <span class="web-color">Building Bold Ideas </span><br>Into Powerful Digital
             </h1>
             <div class="col-lg-6 offset-lg-3">
                 <p class="text-white lh-20 fs-14 pt-20 text-center wow fadeInUp poppins fs-normal fs-14m z-index-1">
-                    At Dev Pickles, we open doors to advanced custom software and mobile app development services.
-                    From SaaS to blockchain and beyond, we’re your partners in reaching new business horizons.
+
+                    At Dev Pickles, we help ambitious ideas become smart, reliable technology. From custom software and
+                    mobile apps to SaaS and blockchain, we build solutions that inspire, perform, and help businesses
+                    grow.
+
+
                 </p>
             </div>
 
@@ -105,44 +109,51 @@
             </div>-->
         </div>
         <div class="row sm-pt-20 wow fadeinup2">
+            <!-- Card 1 -->
             <div class="col-md-3 counting-1">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/01.png"
                     alt="Dev PicklesSoluions Number 01" title="Dev PicklesSolution Number 1 Png"
                     alt="e commerce website developer">
-                <h3 class="web-color d-inline-block">360-degree<br>Digital Strategy</h3>
+                <h3 class="web-color d-inline-block">360° Digital Strategy</h3>
                 <p class="fs-14 fs-14m pl-75 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
-                    Expand your reach with our battle-tested, full-cycle digital solutions and target customers
-                    according to your business journey – make the best app choices with Dev Pickles.
+                    We develop smart digital strategies aligned with your goals, helping you reach the right audience
+                    and make confident technology decisions.
                 </p>
             </div>
+
+            <!-- Card 2 -->
             <div class="col-md-3 counting-2">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/02.png"
                     alt="Dev PicklesSoluions Number 02" title="Dev PicklesSolution Number 2 Png"
                     alt="custom website development company">
-                <h3 class="web-color d-inline-block">Result-oriented<br>product development</h3>
+                <h3 class="web-color d-inline-block">Result-Oriented Product Development</h3>
                 <p class="fs-14 fs-14m pl-82 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
-                    Improve your business ROI with professional websites, mobile apps, and stunning games. Get
-                    everything right, from ideas to execution, testing and launch.
+                    From websites and apps to games, we create high-quality digital products focused on performance,
+                    usability, and measurable business results.
                 </p>
             </div>
+
+            <!-- Card 3 -->
             <div class="col-md-3 counting-3">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/03.png"
                     alt="Dev PicklesSoluions Number 03" title="Dev PicklesSolution Number 3 Png"
                     alt="ecommerce website development">
-                <h3 class="web-color d-inline-block">Advanced emerging<br>technologies</h3>
+                <h3 class="web-color d-inline-block">Advanced Emerging Technologies</h3>
                 <p class="fs-14 fs-14m pl-82 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
-                    Build software applications powered by artificial intelligence, blockchain, and NFTs to outrun your
-                    competition in the rapidly changing business environment.
+                    Leverage AI, blockchain, and other emerging technologies to innovate faster, improve efficiency, and
+                    stay competitive in evolving markets.
                 </p>
             </div>
+
+            <!-- Card 4 -->
             <div class="col-md-3 counting-4">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/04.png"
                     alt="Dev PicklesSoluions Number 04" title="Dev PicklesSolution Number 4 Png"
                     alt="enterprise software development">
-                <h3 class="web-color  d-inline-block">Business-centric<br>software solutions</h3>
+                <h3 class="web-color d-inline-block">Business-Centric Software Solutions</h3>
                 <p class="fs-14 fs-14m pl-94 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
-                    Scale your business operations with custom software applications and business portals. Choose
-                    advanced feature implementation for a better user-friendly experience.
+                    We build scalable custom software and business portals that simplify operations, enhance user
+                    experiences, and support sustainable business growth.
                 </p>
             </div>
         </div>
@@ -162,9 +173,10 @@
                         <span class="web-color">End-To-End Development </span>Solutions For Your Business
                     </h2>
                     <div class="desc text-white lh-100 w-100">
-                        At Dev Pickles, we are more than just developers; we are architects of innovation. We take
-                        pride in our commitment to providing exceptional software development services that are
-                        meticulously crafted to suit your distinct business requirements.
+                        At Dev Pickles, we combine creativity, expertise, and technology to deliver tailored software
+                        solutions. From concept to launch, our team builds reliable digital products designed around
+                        your goals, challenges, and long-term growth.
+
                     </div>
                     <div class="sm-pt-40">
                         <a class="btn web-btn consultation get-in" href="#" target="_blank">All Services</a>
@@ -329,8 +341,9 @@
                 </div>
             </div>
             <p class="text-center text-white pt-3 col-md-6 offset-md-3 pb-0 fs-14 wow fadeInDown">
-                Let Dev Picklesbe your competitive advantage in the world that’s accepting fastest technological
-                revolution.
+                Partner with Dev Pickles to embrace emerging technology, solve complex challenges, and create solutions
+                that drive growth.
+
             </p>
             <div class=" text-center pt-20 wow fadeInDown">
                 <a class="btn consultation mt fs-12m form-2" href="javascript:;" data-bs-toggle="modal"
@@ -387,15 +400,14 @@
                         <h3 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                What is custom software development, and how does it work?
+                                What services does Dev Pickles offer?
                             </button>
                         </h3>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Custom software development is the process of designing, coding, testing, and
-                                maintaining computer programs. It typically involves defining requirements, creating a
-                                design, writing code, testing for bugs, and deploying the software.
+                                We provide custom software development, mobile app development, web development, SaaS
+                                solutions, UI/UX design, and emerging technology solutions.
                             </div>
                         </div>
                     </div>
@@ -403,16 +415,14 @@
                         <h3 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                How can a mobile app development company benefit my business?
+                                Can you develop a solution from scratch?
                             </button>
                         </h3>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                A mobile app development company can help your business reach a broader audience,
-                                enhance customer engagement, improve efficiency, and stay competitive in the digital
-                                age.
-
+                                Yes. We handle the complete development journey, from idea and strategy to design,
+                                development, testing, deployment, and ongoing support.
                             </div>
                         </div>
                     </div>
@@ -420,17 +430,14 @@
                         <h3 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                How long does it take to develop custom software applications?
+                                Do you work with startups and established businesses?
                             </button>
                         </h3>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The timeline for custom software development varies depending on project complexity,
-                                features, and scope. It can take anywhere from a few months to a year or more. A
-                                reputable development team will provide a detailed project timeline during the planning
-                                phase.
-
+                                Absolutely. We work with startups, growing companies, and established businesses,
+                                creating solutions tailored to their goals, budgets, and requirements.
                             </div>
                         </div>
                     </div>
@@ -442,16 +449,15 @@
                         <h3 class="accordion-header" id="headingEight">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                What is the development process for custom software?
+                                How do you ensure project quality?
                             </button>
                         </h3>
                         <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The development process typically includes requirements gathering, design, development,
-                                testing, deployment, and ongoing maintenance. Your software development partner will
-                                guide you through each stage.
-
+                                Our development process includes careful planning, experienced development, quality
+                                assurance, testing, and continuous communication to ensure reliable, high-quality
+                                results.
                             </div>
                         </div>
                     </div>
@@ -459,37 +465,33 @@
                         <h3 class="accordion-header" id="headingNine">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                Do you provide ongoing maintenance and support for the custom software?
-
+                                Can you work with our existing development team?
                             </button>
                         </h3>
                         <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes! Our custom software development company offers ongoing maintenance and support
-                                services to ensure your software remains up-to-date, secure, and efficient. These
-                                services are usually outlined in your agreement.
+                                Yes. Our developers can work alongside your in-house team or operate as a dedicated
+                                development partner based on your needs.
                             </div>
                         </div>
                     </div>
-
                     <div class="accordion-item">
                         <h3 class="accordion-header" id="headingTen">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                What is the cost of custom software development?
+                                Do you provide support after launch?
                             </button>
                         </h3>
                         <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The cost varies based on project complexity, features, and development hours. Your
-                                software development team will provide a detailed estimate during the initial
-                                consultation and planning phase.
+                                Yes. We offer ongoing maintenance, technical support, updates, and improvements to keep
+                                your digital product secure, reliable, and up to date.
                             </div>
                         </div>
                     </div>
-
+                   
                 </div>
             </div>
         </div>

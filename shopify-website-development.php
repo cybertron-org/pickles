@@ -462,7 +462,7 @@
                     </div>
                     <div class="inner2">
                         <h4>$599 <span>$1199</span></h4>
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -506,7 +506,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
@@ -526,7 +526,7 @@
                     </div>
                     <div class="inner2">
                         <h4>$1299 <span>$2599</span></h4>
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -590,7 +590,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
@@ -606,7 +606,7 @@
                     </div>
                     <div class="inner2">
                         <h4>$1999 <span>$5000</span></h4>
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -681,7 +681,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
@@ -702,7 +702,7 @@
                     </div>
                     <div class="inner2">
                         <!-- <h4>$4499 <span>$8999</span></h4> -->
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -720,7 +720,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
@@ -739,7 +739,7 @@
                     </div>
                     <div class="inner2">
                         <!-- <h4>$4499 <span>$8999</span></h4> -->
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -768,7 +768,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
@@ -784,7 +784,7 @@
                     </div>
                     <div class="inner2">
                         <h4>$4499 <span>$8999</span></h4>
-                        <a href="tel:(551) 290-8897" class="brand-black-btn btn-props">Call Now</a>
+                        <a href="tel:<?php echo $phone_number ?>" class="brand-black-btn btn-props">Call Now</a>
                     </div>
                     <div class="inner3">
                         <ul>
@@ -882,7 +882,7 @@
                         </p>
                         <p class="p2"><a href="mailto:info@devpickles.com">info@devpickles.com</a>
                         </p>
-                        <p class="p3"><a href="tel:(551) 290-8897">(551) 290-8897</a></p>
+                        <p class="p3"><a href="tel:<?php echo $phone_number ?>"><?php echo $phone_number ?></a></p>
                     </div>
                     <div class="inner5">
                         <button class="btns" data-bs-toggle="modal" data-bs-target="#contactModal">Get a Quote</button>
