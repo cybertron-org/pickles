@@ -30,15 +30,17 @@
                         Design and Development </span>Services
                 </h1>
                 <p class="pt-4 fs-14m wow fadeInUp">
-                    As an experienced WordPress website design company, we understand that it is most brands’ first step
-                    to digital success. WordPress is the most popular content management system (CMS) on the internet.
-                    Almost a quarter of all the websites on the internet are powered by WordPress. Unlike other CMS
-                    platforms, WordPress is easy to use and can be used to meet any website needs for your business.
+                    WordPress gives businesses a flexible foundation for building a strong digital presence. At Dev
+                    Pickles, we combine creative design with custom WordPress development to create fast, responsive,
+                    and easy-to-manage websites. From business websites to eCommerce platforms, we tailor every solution
+                    to your brand, audience, and goals. Our team helps you make the most of WordPress with technology
+                    that supports growth, engagement, and long-term success.
+
                 </p>
-                <p class="fs-14m wow fadeInUp">
+                <!-- <p class="fs-14m wow fadeInUp">
                     Dev Pickles help businesses utilize the potential of WordPress with custom WordPress development
                     and design services.
-                </p>
+                </p> -->
                 <div class="pt-4 wow fadeInUp">
                     <div class="rs-carousel owl-carousel  owl-drag" data-loop="true" data-items="4" data-margin="30"
                         data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800"
@@ -72,7 +74,8 @@
                             <div class="logo-img">
 
                                 <img src="assets/images/home/blockchain.png"
-                                    alt="Blockchain Website Design & Development" title="Dev PicklesSolution Blockchain Png">
+                                    alt="Blockchain Website Design & Development"
+                                    title="Dev PicklesSolution Blockchain Png">
 
                             </div>
                         </div>
@@ -134,7 +137,7 @@
                                 purchase. Msg &
                                 data rates may apply. Msg frequency varies. Reply HELP for assistance or STOP to opt out
                                 of
-                                receiving messages. 
+                                receiving messages.
                                 Sign Up for Email and Phone Calls
                                 <br>
 
@@ -172,8 +175,8 @@
         </div>
         <div class="row p3-wordpress-paragraph">
             <div class="col-md-6 pt-2  wow slideInLeft">
-                <h2 class="text-black first">Shaping Your Ideas <span class="web-color">Into Reality With Custom
-                        WordPress</span> Development
+                <h2 class="text-black first">Custom <span class="web-color">WordPress Development Built To
+                        Support</span> Your Business Growth
                 </h2>
                 <div class="wow fadeInUp p3-first-button">
                     <button> <a class="web-color form-1" href="javascript:;" data-bs-toggle="modal"
@@ -182,12 +185,18 @@
             </div>
             <div class="col-md-6 wow slideInRight sm-pt-20">
                 <p class="text-black fs-16 fs-14m ">
-                    You can have the next revolutionary idea which could change the world. But what comes after that?
-                    You need a website to make that idea a reality and take your business across the globe.
+                    Your idea deserves a website that reflects its potential. At Dev Pickles, we create custom WordPress
+                    websites with engaging designs, seamless functionality, and intuitive experiences that strengthen
+                    your brand, connect with customers, and support sustainable growth.
+
+
+
+                    Professional WordPress Websites That Drive Sales
+
                 </p>
-                <p class="text-black fs-16 fs-14m">
+                <!-- <p class="text-black fs-16 fs-14m">
                     At our WordPress web design agency, we shape your ideas into a powerful and seamless website!
-                </p>
+                </p> -->
             </div>
         </div>
 
@@ -203,10 +212,11 @@
         <div class="row pt-170 sm-pt-60">
             <div class="col-md-5">
                 <h2 class="wow fadeInUp text-black fs-28 fs-20m">Professional <span class="text-white"> WordPress
-                        Websites</span> That Skyrocket Your Sales</h2>
+                        Websites</span> That Drive Sales</h2>
                 <p class="pt-20 sm-pt-20 fw-400 fs-16 fs-14m text-white wow fadeInUp">
-                    Our team of WordPress web design experts has experience working with clients from around the world
-                    from various industries ranging from fintech startups to attorney law firms.
+                    Our WordPress experts create high-performing websites for businesses worldwide, serving diverse
+                    industries from fintech startups and eCommerce brands to law firms and professional services.
+
                 </p>
             </div>
         </div>
@@ -608,8 +618,8 @@
         <div class="row align-items-center">
             <div class="col-md-6  wow slideInLeft">
                 <p class="second">
-                    Dev Pickles is a custom WordPress website development and design company that offers all-in-one
-                    website services for your online brand.
+                    Dev Pickles Full-cycle WordPress Web Design and Development Services deliver custom, responsive,
+                    user-friendly websites with seamless functionality, engaging designs, and scalable solutions.
 
                 </p>
             </div>
@@ -619,8 +629,8 @@
                 </div>
                 <div class=" web-paragraph-2">
                     <div class=" pt-2 wow slideInRight">
-                        <h2 class="text-black fs-30 fs-20m fw-600 lh-34">HOI’s Full-cycle <span
-                                class="web-color">WordPress Web Design and Development </span>Services</h2>
+                        <h2 class="text-black fs-30 fs-20m fw-600 lh-34">Dev Pickles’ <span class="web-color">WordPress
+                                Web Design and Development </span>Services</h2>
                     </div>
                 </div>
             </div>
@@ -828,7 +838,7 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            Custom WordPress websites that are fully responsive for both web and mobile
+                            Custom WordPress websites that are fully responsive for web and mobile
                         </p>
                     </div>
                 </div>
@@ -839,7 +849,8 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            Cross-browser compatibility and high performance
+                            Cross-browser compatibility with fast, high-performance functionality
+
                         </p>
                     </div>
                 </div>
@@ -850,7 +861,7 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            Standardized code to pass the Google core web vitals
+                            Clean, standardized code optimized to meet Google Core Web Vitals
                         </p>
                     </div>
                 </div>
@@ -869,8 +880,8 @@
         <div class="row">
             <div class="col-md-6 wow slideInLeft pt-30">
                 <p class="lh-24 fs-14m">
-                    A powerful WordPress website goes through rigorous research and development before it goes live on
-                    the internet. Here’s how we create a custom WordPress website for your business:
+                    A powerful WordPress website requires thorough research, planning, and development before launch.
+                    Here’s how we build custom WordPress websites tailored to your business needs.
                 </p>
             </div>
             <div class="col-md-5 offset-md-1 wow slideInRight">
@@ -878,7 +889,8 @@
                     <h3 class="line-partner pl-130 sm-pl-90">Our Process
                     </h3>
                 </div>
-                <h2 class="fs-24 fs-20m">WordPress <span class="web-color">Web Design and Development </span>Approach At
+                <h2 class="fs-24 fs-20m">Our WordPress <span class="web-color">Web Design and Development
+                    </span>Approach At
                     Dev Pickles
                     Solutions</h2>
             </div>
@@ -1053,12 +1065,13 @@
         <div class="row">
             <div class="col-md-6 offset-md-3 text-center">
                 <h2 class="poppins fw-600 wow fadeInUp fs-30 fs-20m"
-                    style="visibility: visible; animation-name: fadeInUp;">Let’s <span class="text-white">Pioneer
+                    style="visibility: visible; animation-name: fadeInUp;">Let’s <span class="text-white">Pioneer Your
                         Business
                     </span>Evolution!</h2>
                 <p class="text-center para wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                    We're not just an app development company; we're on a mission to revolutionize the global business
-                    infrastructure. Your route to readiness begins here.
+                    We’re not just a WordPress development company; we create powerful digital experiences that help
+                    businesses grow, engage customers, and stay ahead.
+
                 </p>
             </div>
         </div>
@@ -1075,16 +1088,16 @@
                         <h3 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Which WordPress development services do you offer?
+                                What WordPress design and development services do you offer?
                             </button>
                         </h3>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Dev Pickles is a WordPress development company offering services like WordPress
-                                Themes, WordPress plugins, WordPress speed optimization, WordPress performance
-                                optimization, WordPress site migrations, WooCommerce store integrations, custom APIs,
-                                and much more.
+                                We provide end-to-end WordPress design and development services, including custom
+                                WordPress website design, theme development, plugin development, WooCommerce
+                                integration, website migration, speed optimization, performance optimization, API
+                                integrations, and ongoing maintenance.
                             </div>
                         </div>
                     </div>
@@ -1092,15 +1105,15 @@
                         <h3 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                What is the cost of your WordPress design and development services?
+                                How much does WordPress website design and development cost?
                             </button>
                         </h3>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The cost of the WordPress website design and development depends on your requirements.
-                                So make sure you outline your requirements and get a quote before we start working on
-                                your project.
+                                The cost depends on your website's size, design requirements, functionality,
+                                integrations, number of pages, and level of customization. We review your requirements
+                                and provide a tailored quote before beginning development.
                             </div>
                         </div>
                     </div>
@@ -1108,14 +1121,15 @@
                         <h3 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                How do I monitor the WordPress project’s development?
+                                How long does it take to build a WordPress website?
                             </button>
                         </h3>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Our team uses project management software such as Asana, Trello, and Basecamp to
-                                regularly update you on project developments.
+                                A basic WordPress website can be completed in as little as a few days, while larger or
+                                highly customized websites may take considerably longer. The exact timeline depends on
+                                the project's scope, features, content, and integrations.
                             </div>
                         </div>
                     </div>
@@ -1124,49 +1138,50 @@
             <div class="col-md-6">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
-                        <h3 class="accordion-header " id="headingEight">
-                            <button class="accordion-button collapsed fs-15mi fs-12mi" type="button"
-                                data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false"
-                                aria-controls="collapseEight">
-                                How long will it take to complete my WordPress development project?
+                        <h3 class="accordion-header" id="headingSix">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                Can you create a custom WordPress website from scratch?
+                            </button>
+                        </h3>
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Yes. We can design and develop a custom WordPress website based on your brand, business
+                                objectives, target audience, and functional requirements rather than relying solely on a
+                                pre-built template.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingSeven">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                Can you redesign or improve my existing WordPress website?
+                            </button>
+                        </h3>
+                        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Yes. We can redesign existing WordPress websites to improve their appearance, user
+                                experience, mobile responsiveness, performance, functionality, and overall conversion
+                                potential.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingEight">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                Can you migrate my existing website to WordPress?
                             </button>
                         </h3>
                         <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                A basic WordPress can take us 3 days to complete. However, each business has different
-                                requirements and objectives which can alter the project’s timeline.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h3 class="accordion-header" id="headingNine">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                How secure is my WordPress website going to be?
-                            </button>
-                        </h3>
-                        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                We always prioritize security on your WordPress website. That’s why we add custom
-                                WordPress plugins and code for securing your WordPress website.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h3 class="accordion-header" id="headingTen">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                Can you migrate my existing website to WordPress?
-                            </button>
-                        </h3>
-                        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Absolutely, our WordPress web design company helps migrate websites from other CMSs to
-                                WordPress. Our WordPress experts will handle everything related to website migration
-                                from the migration of posts, to third-party integrations.
+                                Absolutely. We can migrate websites from other content management systems to WordPress
+                                while helping transfer content, pages, posts, media, and relevant third-party
+                                integrations.
                             </div>
                         </div>
                     </div>

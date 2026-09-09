@@ -34,14 +34,16 @@
                     eCommerce Website <span class="web-color">Design & Development </span>Services
                 </h1>
                 <p class="pt-4 fs-14m wow fadeInUp">
-                    Dev Pickles is a full-cycle tech company specializing as an eCommerce website development agency.
-                    We create online stores, marketplaces and interactive websites needed for smoother customer
-                    journeys.
+                    Dev Pickles creates high-performing eCommerce websites, online stores, and marketplaces designed
+                    around your customers and business goals. From seamless shopping experiences to scalable technology,
+                    we build secure, engaging platforms that simplify operations, increase conversions, and support
+                    sustainable growth for retail and wholesale businesses.
+
                 </p>
-                <p class="fs-14m wow fadeInUp">
+                <!-- <p class="fs-14m wow fadeInUp">
                     No matter what your business is or what technology model you have, we have all the solutions for
                     growing your retail as well as wholesale business.
-                </p>
+                </p> -->
                 <div class="pt-4 wow fadeInUp">
                     <div class="rs-carousel owl-carousel  owl-drag" data-loop="true" data-items="4" data-margin="30"
                         data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800"
@@ -175,11 +177,11 @@
                 <h2 class="text-white first pt-2 fs-20m">Seamless <span class="web-color">eCommerce Experience</span>
                 </h2>
                 <p class="fs-14 text-white pt-3">
-                    eCommerce websites need to give customers a flawless shopping experience throughout the buying
-                    process. Everything from an interactive web design to the checkout process can have long-term
-                    consequences for your brand’s success or failure. Dev Pickles’ custom eCommerce website
-                    development involves a lengthy process of research and development to ensure maximum profitability
-                    for your business.
+                    We create eCommerce experiences that make every step effortless, from browsing and product discovery
+                    to checkout. Our research-driven development approach combines intuitive design, smooth
+                    functionality, and scalable technology to enhance customer satisfaction, strengthen your brand, and
+                    maximize long-term business growth
+
                 </p>
                 <div class="wow fadeInUp p3-first-button">
                     <button><a class="web-color fw-400 form-1" href="javascript:;" data-bs-toggle="modal"
@@ -936,15 +938,18 @@
                     </span>Diverse Businesses</h2>
 
                 <p class="para-long wow fadeInUp">
-                    Dev Pickles has a team of experienced website designers and developers. Putting together our years
-                    of experience helps us come up with innovative eCommerce web design services for retail brands,
-                    manufacturers, distributors, and wholesalers.
+                    Dev Pickles combines years of design and development expertise to create innovative eCommerce
+                    solutions for retailers, manufacturers, distributors, and wholesalers. We build engaging,
+                    user-friendly online stores focused on seamless experiences and measurable growth. From intuitive
+                    design to powerful functionality, every platform is tailored to your business goals, helping attract
+                    customers, increase conversions, streamline operations, and strengthen your digital presence.
+
                 </p>
-                <p class="para-long wow fadeInUp">
+                <!-- <p class="para-long wow fadeInUp">
                     At our eCommerce web design company, we strive to boost sales and drive customers to these
                     businesses. When you partner with Dev Pickles for your eCommerce website, we ensure that you’ll
                     get nothing less than the best results for your business!
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
@@ -957,9 +962,9 @@
         <div class="row">
             <div class="col-md-6  wow slideInLeft">
                 <p class="second">
-                    Our team of eCommerce experts is capable of working with all the latest website development
-                    technologies. We handle clients from all industries and business sizes across the globe. Here are
-                    some of the eCommerce website development services we offer:
+                    Our eCommerce experts work with modern technologies to create scalable solutions for businesses of
+                    every size and industry. We deliver tailored, reliable, and conversion-focused online stores
+                    designed to support growth, enhance customer experiences, and achieve lasting results.
 
                 </p>
             </div>
@@ -969,7 +974,8 @@
                 </div>
                 <div class=" web-paragraph-2">
                     <div class=" pt-2 wow slideInRight">
-                        <h2 class="text-black fs-30 lh-38 fw-600">Why Hire Our <span class="web-color">eCommerce Website
+                        <h2 class="text-black fs-30 lh-38 fw-600">Why Partner With Our <span class="web-color">eCommerce
+                                Website
                             </span>Development Agency?</h2>
                     </div>
                 </div>
@@ -1220,9 +1226,10 @@
         <div class="row">
             <div class="col-md-6 wow slideInLeft">
                 <p class="lh-24 fs-14m">
-                    As customer expectations grow, so does the need for newer technology in the eCommerce industry. We
-                    deploy modern technologies such as AR, AI, and blockchain to create websites that offer a smoother
-                    customer experience.
+                    We use modern technologies like AI, AR, and blockchain to create engaging eCommerce websites. Our
+                    solutions improve shopping experiences, simplify customer journeys, and help businesses stay
+                    competitive in an evolving digital marketplace.
+
                 </p>
             </div>
             <div class="col-md-5 offset-md-1 wow slideInRight">
@@ -1244,8 +1251,9 @@
                 <h3 class=" web-color d-inline-block">eCommerce<br>Consulting</h3>
 
                 <p class="pl-75 pt-30 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    Our expert eCommerce consultants advise you about your eCommerce business, technology, and
-                    performance aspects.
+                    Get expert guidance on your eCommerce strategy, technology, performance, and growth opportunities.
+                    We help you make smarter decisions with confidence.
+
 
                 </p>
             </div>
@@ -1255,8 +1263,9 @@
                     title="Dev PicklesSolution Number 2 Png">
                 <h3 class=" web-color d-inline-block">Shopify & WooCommerce<br>Development</h3>
                 <p class="pl-80 pt-30 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    Want to launch an online store in literally 10 days? Choose from our Shopify and WooCommerce
-                    development services and get your store up and running!
+                    Launch a professional online store with our Shopify and WooCommerce development expertise. We create
+                    fast, user-friendly, and scalable stores tailored to your business.
+
                 </p>
             </div>
 
@@ -1265,11 +1274,11 @@
                     title="Dev PicklesSolution Number 3 Png">
                 <h3 class=" web-color d-inline-block">eCommerce<br>Migration</h3>
                 <p class="pl-80 pt-30 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    A change in strategy can also mean a change in your website’s platform. We help you migrate your
-                    website between platforms such as WooCommerce
+                    Moving to a new platform? We make the transition smooth and secure, helping migrate your store,
+
+
                     <span id="dots-3">...</span><span id="more-3">
-                        and Shopify, including safely transferring your
-                        business data.
+                        products, data, and essential functionality with minimal disruption.
                     </span>
                 </p>
                 <a class="see-more-btn-2" onclick="myFunction3()" id="myBtn-3">Read more</a>
@@ -1282,11 +1291,12 @@
                 <h3 class=" web-color d-inline-block">eCommerce<br>Audit</h3>
 
                 <p class="pl-96 pt-30 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    A regular website audit keeps your eCommerce business up and running without any technical errors.
+                    Identify technical issues and growth opportunities with a comprehensive eCommerce audit.
+
                     <span id="dots-4">...</span><span id="more-4">
-                        We inspect your eCommerce website for any code defects, or performance issues and plan a
-                        solution to
-                        fix them.
+                        We review
+                        your website’s performance, usability, security, and functionality to help improve overall
+                        results.
                     </span>
                 </p>
                 <a class="see-more-btn-3" onclick="myFunction4()" id="myBtn-4">Read more</a>
@@ -1297,10 +1307,12 @@
                     title="Dev PicklesSolution Number 5 Png">
                 <h3 class=" web-color d-inline-block">eCommerce Website<br>Design</h3>
                 <p class="pl-90 pt-30 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    Our eCommerce website design services encompass UX and UI aspects. We follow the best practices of
-                    target
+                    We design engaging eCommerce websites focused on intuitive navigation, seamless user experiences,
+                    and conversion.
+
                     <span id="dots-5">...</span><span id="more-5">
-                        audience research, competitor analysis, UI kit branding, and usability testing.
+                        Every design is created to reflect your brand while making shopping simple for your
+                        customers.
                     </span>
                 </p>
                 <a class="see-more-btn-4" onclick="myFunction5()" id="myBtn-5">Read more</a>
@@ -1326,8 +1338,10 @@
         <div class="row pt-2 ">
             <div class="col-md-10 wow fadeInUp text-white">
                 <p class="fs-normal color-grey fs-14m">
-                    After years of working with clients from around the world, we have created a process that focuses on
-                    getting the maximum results for our clients,
+                    After years of working with businesses worldwide, we’ve refined a streamlined process focused on
+                    creating high-performing eCommerce experiences. Every stage is carefully planned to deliver quality,
+                    efficiency, and measurable business value.
+
                 </p>
             </div>
         </div>
@@ -1341,8 +1355,9 @@
                 <div></div>
                 <h3 class=" text-white text-center fs-22 fs-20m">Strategy</h3>
                 <p class="text-white fs-14 sm-pt-10 text-center">
-                    We perform thorough market research and create a buyer persona for your online business. Then design
-                    a roadmap for your eCommerce website development.
+                    We begin with market research, competitor analysis, and buyer personas to understand your audience.
+                    These insights shape a clear roadmap for your eCommerce project.
+
                 </p>
             </div>
             <div class="col-md-3 counter-2-ecommerce wow fadeInUp sm-pt-20">
@@ -1354,7 +1369,9 @@
                 <div></div>
                 <h3 class=" text-white text-center fs-22 fs-20m">Design</h3>
                 <p class="text-white fs-14 sm-pt-10 text-center">
-                    The design follows the strategy phase. Our roadmaps are translated into UI and UX designs.
+                    Our strategy comes to life through thoughtful UI/UX design. We create intuitive layouts and engaging
+                    experiences that make browsing and purchasing effortless.
+
                 </p>
             </div>
             <div class="col-md-3 counter-3-ecommerce wow fadeInUp sm-pt-20">
@@ -1366,8 +1383,9 @@
                 <div></div>
                 <h3 class="text-white text-center fs-22 fs-20m">Development</h3>
                 <p class="text-white fs-14 sm-pt-10 text-center">
-                    Designs are then coded into the backend, front-end and APIs of your eCommerce website. We integrate
-                    payment processors and your store is done!
+                    Our developers transform approved designs into a fully functional eCommerce platform. We build the
+                    front end, back end, APIs, integrations, and secure payment systems.
+
                 </p>
             </div>
             <div class="col-md-3 counter-4-ecommerce wow fadeInUp sm-pt-20">
@@ -1379,8 +1397,10 @@
                 <div></div>
                 <h3 class=" text-white text-center fs-22 fs-20m">Test</h3>
                 <p class=" text-white fs-14 sm-pt-10 text-center">
-                    The development stage needs strict quality assurance before your store can go live on the internet.
-                    We battle-test, fix and launch.
+                    Before launch, our QA team thoroughly tests performance, functionality, responsiveness, security,
+                    and user experience. We resolve issues, optimize the store, and ensure everything is ready for a
+                    smooth launch.
+
                 </p>
             </div>
         </div>
@@ -1485,8 +1505,10 @@
                         Business
                     </span>Evolution!</h2>
                 <p class="text-center para wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                    We're not just an app development company; we're on a mission to revolutionize the global business
-                    infrastructure. Your route to readiness begins here.
+                    We're not just building eCommerce websites; we're creating powerful digital storefronts that
+                    transform ideas into scalable businesses. Your journey toward smarter, seamless, and future-ready
+                    commerce begins here.
+
                 </p>
             </div>
         </div>
@@ -1503,15 +1525,15 @@
                         <h3 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Which platform is best for eCommerce website development for my projects?
+                                What eCommerce development services does Dev Pickles offer?
                             </button>
                         </h3>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The choice of your eCommerce platforms depends on factors like integrations, design,
-                                business objectives, pricing, payments, etc. If you are still unsure, get in touch with
-                                our eCommerce experts for a free consultation call.
+                                We provide complete eCommerce solutions, including strategy, UI/UX design, custom
+                                development, Shopify and WooCommerce development, migration, audits, integrations,
+                                testing, and ongoing support.
                             </div>
                         </div>
                     </div>
@@ -1519,17 +1541,14 @@
                         <h3 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                How much does it cost to build an eCommerce website?
+                                Can you build a custom eCommerce website?
                             </button>
                         </h3>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                The cost of building an ecommerce website depends on your business needs and
-                                requirements. A simple eCommerce website can cost you around $500-1500. Medium size
-                                businesses can expect to invest $1600-2500 + other ongoing costs. Corporations need a
-                                website that is much more secure and custom, so that can cost from $2500-5000 + regular
-                                maintenance cost.
+                                Yes. We create custom eCommerce websites tailored to your brand, products, customers,
+                                business model, and specific growth objectives.
                             </div>
                         </div>
                     </div>
@@ -1537,16 +1556,29 @@
                         <h3 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                I want to hire an eCommerce website development company. So, how are we going to work
-                                this out?
+                                Do you develop Shopify and WooCommerce stores?
                             </button>
                         </h3>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                We can start by discussing and finalizing your project requirements. Then after a quick
-                                documentation, you can hire dedicated eCommerce developers or a team from an eCommerce
-                                website design & development company for your project.
+                                Yes. Our team develops and customizes both Shopify and WooCommerce stores, creating
+                                responsive, user-friendly, and scalable online shopping experiences.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingSix">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                Can you migrate my existing eCommerce website?
+                            </button>
+                        </h3>
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Absolutely. We can help migrate your store, products, customer data, and essential
+                                functionality to a new platform while keeping disruption to your business minimal.
                             </div>
                         </div>
                     </div>
@@ -1555,18 +1587,33 @@
             <div class="col-md-6">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingSeven">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                How long does it take to develop an eCommerce website?
+                            </button>
+                        </h3>
+                        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                The timeline depends on your website's features, integrations, design requirements, and
+                                overall complexity. We provide a clear development timeline after reviewing your
+                                project.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
                         <h3 class="accordion-header" id="headingEight">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                Am I going to own all the source codes of my website?
+                                Can you integrate payment gateways and third-party tools?
                             </button>
                         </h3>
                         <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, your website’s source codes are your intellectual property rights. After the
-                                project is finished, our team will hand you over all the intellectual properties for
-                                your website.
+                                Yes. We integrate secure payment gateways, APIs, shipping solutions, analytics, CRM
+                                systems, inventory tools, and other third-party services required by your business.
                             </div>
                         </div>
                     </div>
@@ -1574,20 +1621,32 @@
                         <h3 class="accordion-header" id="headingNine">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                How to choose the right eCommerce website development agency for my requirements?
+                                Will my eCommerce website be mobile-friendly?
                             </button>
                         </h3>
                         <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                eCommerce websites are a long-term strategy. That’s why you should choose an agency
-                                like Dev Pickles, which offers constant assistance, and maintenance, even after your
-                                website goes live on the internet.
-
+                                Yes. We design responsive eCommerce websites that provide a smooth and consistent
+                                shopping experience across smartphones, tablets, laptops, and desktop devices.
                             </div>
                         </div>
                     </div>
-
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingTen">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                Do you provide eCommerce maintenance and support?
+                            </button>
+                        </h3>
+                        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Yes. We provide ongoing maintenance, technical support, updates, performance
+                                improvements, and optimization to keep your eCommerce platform running smoothly.
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

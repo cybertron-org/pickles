@@ -144,13 +144,13 @@
                                                         <div class="row">
                                                             <div class="col">
                                                                 <ul class="wstliststy06 clearfix">
-                                                                    <li><a href="../ecommerce-website-development">
+                                                                    <li><a href="ecommerce-website-development">
                                                                             eCommerce Website
                                                                             Development</a></li>
-                                                                    <li><a href="../wordpress-design-and-development">WordPress
+                                                                    <li><a href="wordpress-design-and-development">WordPress
                                                                             design and
                                                                             development</a></li>
-                                                                    <li><a href="../shopify-website-development">Shopify
+                                                                    <li><a href="shopify-website-development">Shopify
                                                                             Website
                                                                             Development</a></li>
 

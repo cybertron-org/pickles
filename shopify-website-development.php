@@ -33,14 +33,14 @@
                 </h1>
 
                 <p class="pt-4 fs-14m wow fadeInUp">
-                    At Dev Pickles, our Shopify experts deliver an unbeatable combination - custom Shopify websites at
-                    affordable prices. We create tailored websites that not only look immersive but also deliver the
-                    results you need for your thriving e-commerce business.
-                    <br><br>
-                    When you are starting a Shopify business or looking to grow an existing Shopify website, you need
-                    the help of experts at Dev Pickles to get the job done! From auditing your Shopify eCommerce
-                    website to migrating your website from another platform or even a theme upgrade, our Shopify
-                    development services can offer every possible solution.
+                    At Dev Pickles, our Shopify experts build custom, high-performing eCommerce websites at affordable
+                    prices. We create engaging Shopify stores tailored to your brand, business goals, and customers.
+                    Whether you’re launching a new Shopify business or scaling an existing store, our experienced team
+                    can help. From Shopify website audits and performance improvements to custom development, theme
+                    upgrades, and migration from other platforms, we provide complete solutions. Our Shopify development
+                    services are designed to enhance user experience, strengthen your online presence, and help your
+                    eCommerce business achieve sustainable growth.
+
                 </p>
                 <div class="pt-4 wow fadeInUp">
                     <div class="rs-carousel owl-carousel  owl-drag" data-loop="true" data-items="4" data-margin="30"
@@ -176,7 +176,7 @@
         </div>
         <div class="row align-items-center p3-custom-paragraph">
             <div class="col-md-6 pt-2  wow slideInLeft">
-                <h2 class="text-black first">Bringing <span class="web-color">Your Design </span>To Life
+                <h2 class="text-black first">Where <span class="web-color">Your Ideas </span>Become Reality
                 </h2>
                 <div class="wow fadeInUp p3-first-button">
                     <button> <a class="web-color form-1" href="javascript:;" data-bs-toggle="modal"
@@ -185,13 +185,12 @@
             </div>
             <div class="col-md-6 wow slideInRight sm-pt-20">
                 <p class="text-black second">
-                    Designing your Shopify website is one the best ways to bring in new customers for your online brand,
-                    but a great design is a result of research and analysis. Our Shopify website development company
-                    creates designs that reflect your brand’s identity along with advanced website development
-                    technology for a seamless experience.
-                    <br><br>
-                    Dev Pickles’ team of professional designers and website developers will grow your seed of ideas
-                    into a long-term scalable business.
+                    Designing your Shopify website is one of the best ways to attract new customers, but an effective
+                    design starts with thorough research and analysis. At Dev Pickles, our Shopify website development
+                    experts create visually engaging stores that reflect your brand identity while using modern
+                    technology to deliver seamless experiences. Our skilled designers and developers transform your
+                    ideas into scalable, high-performing Shopify businesses built for long-term growth and success.
+
 
                 </p>
 
@@ -215,13 +214,16 @@
                     Impact</h2>
 
                 <p class="text-white fs-14 wow fadeInUp pt-20">
-                    Our team of passionate Shopify experts develop and design Shopify websites that your customers can’t
-                    stop raving about!
+                    Our Shopify experts create engaging, customer-focused websites designed to strengthen your brand and
+                    drive sales. We combine thoughtful design, seamless functionality, and strategic development to
+                    deliver Shopify stores that captivate customers, build trust, increase conversions, and support your
+                    business’s long-term growth.
+
                 </p>
-                <p class="text-white fs-14 wow fadeInUp">
+                <!-- <p class="text-white fs-14 wow fadeInUp">
                     We understand the value of your business; that’s why we deliver you the results that’ll skyrocket
                     your sales and make your brand a raging success.
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
@@ -1121,7 +1123,8 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            Custom Shopify development services ranging from website migration to inventory management
+                            Custom Shopify development services ranging from migration to inventory management
+
                         </p>
                     </div>
                 </div>
@@ -1132,7 +1135,8 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            Exclusive features and services custom-made for your brand
+                            Exclusive features and services tailored specifically for your brand
+
                         </p>
                     </div>
                 </div>
@@ -1143,7 +1147,8 @@
                     </div>
                     <div class="col-md-11">
                         <p class="fs-18 fs-14mm text-white">
-                            A dedicated team of Shopify website experts for your project
+                            A dedicated team of Shopify experts for your project
+
                         </p>
                     </div>
                 </div>
@@ -1163,11 +1168,12 @@
             <div class="col-md-6 wow slideInLeft">
                 <p class="lh-24 fs-14m sm-pt-30">
                     Build sales-driven e-commerce websites with our Shopify app development company. Here’s how our
-                    custom Shopify development works:
+                    custom Shopify development works to grow your online business.
+
                 </p>
             </div>
             <div class="col-md-5 offset-md-1 wow slideInRight">
-                <h2 class="pt-10 sm-pt-0 fs-30 fs-24m">Building Your <span class="web-color">Shopify E-commerce
+                <h2 class="pt-10 sm-pt-0 fs-30 fs-24m">Powering <span class="web-color">Shopify E-commerce
                         Empire</span></h2>
             </div>
         </div>
@@ -1180,8 +1186,9 @@
                     title="Dev PicklesSolution Number 1 Png">
                 <h3 class=" web-color d-inline-block">Research</h3>
                 <p class="pl-75 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    At the first stage of our process, we closely study your business, target audience, and competitors
-                    and then brainstorm project ideas through our regular team discussions.
+                    We begin by understanding your business, target audience, competitors, and goals. Our team conducts
+                    research and brainstorms ideas to create the right direction for your Shopify project.
+
                 </p>
 
             </div>
@@ -1190,8 +1197,10 @@
                 <img src="assets/images/hoi-mobile-app-development/02.png" alt="Dev PicklesSoluions Number 02"
                     title="Dev PicklesSolution Number 2 Png">
                 <h3 class=" web-color d-inline-block">Planning</h3>
-                <p class="pl-80 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">After we have ideas, we start curating a strategy
-                    for your project. We will provide you with the complete roadmap from start to finish at this stage.
+                <p class="pl-80 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">Once we have the right ideas, we develop a clear
+                    strategy and project roadmap. This stage outlines the key steps, features, and objectives from start
+                    to finish.
+
                 </p>
             </div>
 
@@ -1200,8 +1209,10 @@
                     title="Dev PicklesSolution Number 3 Png">
                 <h3 class=" web-color d-inline-block">Wireframes</h3>
                 <p class="pl-80 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    Keeping your brand’s identity and customers at the forefront, we design drafts that tick all the
-                    boxes of a great UI/UX design.
+                    We create user-focused wireframes that reflect your brand identity and customer expectations. These
+                    drafts establish an intuitive structure and ensure every essential UI/UX element is thoughtfully
+                    planned.
+
                 </p>
             </div>
         </div>
@@ -1212,7 +1223,9 @@
                 <h3 class=" web-color d-inline-block">Design & Development</h3>
 
                 <p class="pl-96 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">After you approve the design drafts we start
-                    shaping those designs into an immersive and fully functioning website.
+                    After your approval, our designers and developers transform the wireframes into an engaging,
+                    responsive, and fully functional Shopify website tailored to your business.
+
                 </p>
             </div>
             <div class="col-md-4 counter-5-shopify wow fadeinup">
@@ -1221,8 +1234,8 @@
                 <h3 class=" web-color d-inline-block">After-Sales Support</h3>
 
                 <p class="pl-90 pt-20 lh-20 sm-pl-72 sm-pt-15 fs-14">
-                    We believe in 100% client satisfaction. That’s why you’ll get regular support for your Shopify
-                    website even after your website goes live.
+                    Our commitment continues after launch. We provide ongoing Shopify support to help maintain your
+                    website, resolve issues, and ensure a smooth experience as your business grows.
                 </p>
             </div>
         </div>
@@ -1270,12 +1283,13 @@
         <div class="row">
             <div class="col-md-6 offset-md-3 text-center">
                 <h2 class="poppins fw-600 wow fadeInUp fs-30 fs-20m"
-                    style="visibility: visible; animation-name: fadeInUp;">Let’s <span class="text-white">Pioneer
-                        Business
-                    </span>Evolution!</h2>
+                    style="visibility: visible; animation-name: fadeInUp;">Where <span class="text-white">Business
+                        Innovation
+                    </span>Begins!</h2>
                 <p class="text-center para wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                    We're not just an app development company; we're on a mission to revolutionize the global business
-                    infrastructure. Your route to readiness begins here.
+                    Launch a high-performing Shopify website crafted for your business, combining innovative design,
+                    smooth user experiences, robust functionality, and conversion-focused development for sustainable
+                    success.
                 </p>
             </div>
         </div>
@@ -1344,14 +1358,14 @@
                         <h3 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                What skills do your Shopify Developers have?
+                                What is Shopify website development?
                             </button>
                         </h3>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Our Shopify experts have authority over scripting languages and processes along with
-                                HTML, CSS, PHP, and more.
+                                Shopify website development involves creating, customizing, and optimizing online stores
+                                using Shopify to deliver a seamless shopping experience and support business growth.
                             </div>
                         </div>
                     </div>
@@ -1359,14 +1373,15 @@
                         <h3 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Can your Shopify Developers build custom Shopify Themes?
+                                Why should I choose Shopify for my ecommerce website?
                             </button>
                         </h3>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, at our Shopify website development company, our developers can build custom themes
-                                for your website along with all the necessary integrations.
+                                Shopify offers a scalable, user-friendly platform with powerful ecommerce features,
+                                secure payments, customizable designs, and integrations that make managing an online
+                                store easier.
                             </div>
                         </div>
                     </div>
@@ -1374,14 +1389,14 @@
                         <h3 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                What can I expect as ROI?
+                                Can you create a custom Shopify website?
                             </button>
                         </h3>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                When it comes down to ROI, there are a lot of factors involved. However, even a modest
-                                increase in conversion rates can lead to a significant increase in sales.
+                                Yes. We can develop a custom Shopify store tailored to your brand, products, customer
+                                journey, business requirements, and long-term ecommerce goals.
                             </div>
                         </div>
                     </div>
@@ -1390,50 +1405,48 @@
             <div class="col-md-6">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingSix">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                How long does it take to develop a Shopify website?
+                            </button>
+                        </h3>
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                The timeline depends on your store's complexity, design requirements, number of
+                                products, integrations, and customization needs. We provide a clear timeline before
+                                development begins.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h3 class="accordion-header" id="headingSeven">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                Can you redesign or migrate my existing ecommerce website to Shopify?
+                            </button>
+                        </h3>
+                        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Yes. We can help migrate your existing store to Shopify while maintaining essential
+                                data, functionality, product information, and a smooth customer experience.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
                         <h3 class="accordion-header" id="headingEight">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                Can you migrate my existing e-commerce website design?
+                                Do you provide Shopify theme customization?
                             </button>
                         </h3>
                         <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Yes, our Shopify plus design agency, can migrate your Magento, BigCommerce, and
-                                WooCommerce sites to Shopify. Our experts will also handle all the migration of
-                                customer, order, and product data.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h3 class="accordion-header" id="headingNine">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                Why consider Shopify as the best choice for eCommerce stores?
-                            </button>
-                        </h3>
-                        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                Shopify has loads of built-in features and functionalities which help business owners
-                                create websites according to their requirements easily.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h3 class="accordion-header" id="headingTen">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                How much would it cost to create a Shopify website?
-                            </button>
-                        </h3>
-                        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
-                            data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
-                                The cost of a Shopify website depends on your feature and functionality requirements. If
-                                you opt for our Shopify store development services, a simple Shopify website can cost
-                                you around $300 to 400, while a more complex one can cost around $2000 to $3000 or even
-                                more.
+                                Yes. We customize Shopify themes to align with your brand identity, improve usability,
+                                enhance functionality, and create a distinctive storefront.
                             </div>
                         </div>
                     </div>
