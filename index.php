@@ -12,7 +12,8 @@
     <div class="container-fluid">
         <div class="banner-content pb-20 sm-pt-130 tb-pt-180">
             <h1 class="fs-55 fs-20m tb-fs-40 text-center z-index-1 text-white wow fadeInUp">
-                <span class="web-color">Building Bold Ideas </span><br>Into Powerful Digital
+                <span class="web-color">Building Bold Ideas </span><br>Powerful Digital Solutions
+
             </h1>
             <div class="col-lg-6 offset-lg-3">
                 <p class="text-white lh-20 fs-14 pt-20 text-center wow fadeInUp poppins fs-normal fs-14m z-index-1">
@@ -90,17 +91,19 @@
             </div>
             <div class="col-md-6">
                 <p class="lh-20 fs-14m index_2ndSec_align sm-tac">
-                    Get your on-demand development team that’s 2X faster than traditional app development companies, 30%
-                    more cost-effective than in-house developers, and 100% more reliable than development freelancers.
+                    Get a dedicated development team delivering faster, cost-effective, and more reliable results than
+                    traditional teams, in-house developers, or freelancers.
+
                 </p>
             </div>
         </div>
 
         <div class="row wow fadeinup">
             <div class="col-md-6 padding-top">
-                <h2 class="fs-30 fs-20m pt-20 tb-fs-20 tb-pt-0i poppins sm-tac">Custom <span class="web-color">Software
-                        and Mobile App
-                    </span>Development Company that nurtures your business as its own</h2>
+                <h2 class="fs-30 fs-20m pt-20 tb-fs-20 tb-pt-0i poppins sm-tac"> <span class="web-color">Smart
+                        technology, thoughtful strategy,
+                    </span>and solutions designed around the way your business actually works </span>
+                </h2>
             </div>
             <!--<div class="col-md-6">
                 <p class=" lh-20 sm-pt-15 fs-14m">We offer a comprehensive set of digital marketing services to cater to
@@ -108,12 +111,11 @@
                     </p>
             </div>-->
         </div>
-        <div class="row sm-pt-20 wow fadeinup2">
+        <div class="row sm-pt-20 wow fadeinup2 home-feature-cards">
             <!-- Card 1 -->
             <div class="col-md-3 counting-1">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/01.png"
-                    alt="Dev PicklesSoluions Number 01" title="Dev PicklesSolution Number 1 Png"
-                    alt="e commerce website developer">
+                    alt="Dev Pickles Solutions Number 01" title="Dev Pickles Solution Number 1">
                 <h3 class="web-color d-inline-block">360° Digital Strategy</h3>
                 <p class="fs-14 fs-14m pl-75 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
                     We develop smart digital strategies aligned with your goals, helping you reach the right audience
@@ -124,10 +126,9 @@
             <!-- Card 2 -->
             <div class="col-md-3 counting-2">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/02.png"
-                    alt="Dev PicklesSoluions Number 02" title="Dev PicklesSolution Number 2 Png"
-                    alt="custom website development company">
+                    alt="Dev Pickles Solutions Number 02" title="Dev Pickles Solution Number 2">
                 <h3 class="web-color d-inline-block">Result-Oriented Product Development</h3>
-                <p class="fs-14 fs-14m pl-82 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
+                <p class="fs-14 fs-14m pl-75 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
                     From websites and apps to games, we create high-quality digital products focused on performance,
                     usability, and measurable business results.
                 </p>
@@ -136,10 +137,9 @@
             <!-- Card 3 -->
             <div class="col-md-3 counting-3">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/03.png"
-                    alt="Dev PicklesSoluions Number 03" title="Dev PicklesSolution Number 3 Png"
-                    alt="ecommerce website development">
+                    alt="Dev Pickles Solutions Number 03" title="Dev Pickles Solution Number 3">
                 <h3 class="web-color d-inline-block">Advanced Emerging Technologies</h3>
-                <p class="fs-14 fs-14m pl-82 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
+                <p class="fs-14 fs-14m pl-75 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
                     Leverage AI, blockchain, and other emerging technologies to innovate faster, improve efficiency, and
                     stay competitive in evolving markets.
                 </p>
@@ -148,10 +148,9 @@
             <!-- Card 4 -->
             <div class="col-md-3 counting-4">
                 <img class="lazy" src="assets/images/hoi-mobile-app-development/04.png"
-                    alt="Dev PicklesSoluions Number 04" title="Dev PicklesSolution Number 4 Png"
-                    alt="enterprise software development">
+                    alt="Dev Pickles Solutions Number 04" title="Dev Pickles Solution Number 4">
                 <h3 class="web-color d-inline-block">Business-Centric Software Solutions</h3>
-                <p class="fs-14 fs-14m pl-94 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
+                <p class="fs-14 fs-14m pl-75 tb-pl-0 sm-pl-72 lh-20 pt-15 sm-pt-15 pt-20">
                     We build scalable custom software and business portals that simplify operations, enhance user
                     experiences, and support sustainable business growth.
                 </p>
@@ -368,22 +367,22 @@
             data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true"
             data-md-device-dots="false">
             <div class="client-logo" style="cursor: pointer;"
-                onclick="window.open('https://clutch.co/profile/hoi-solutions','new_window');">
+                onclick="window.open('https://clutch.co/profile/devpickles','new_window');">
                 <img class="lazy" src="assets/images/home/clutch.png" alt="Dev Pickles Clutch Profile"
                     title="Dev PicklesSolution Clutch Png ">
             </div>
             <div class="client-logo" style="cursor: pointer;"
-                onclick="window.open('https://www.crunchbase.com/organization/hoi-solutions-68a7','new_window');">
+                onclick="window.open('https://www.crunchbase.com/organization/-68a7','new_window');">
                 <img class="lazy" src="assets/images/home/crunch.png" alt="Dev Pickles Crunchbase Profile"
                     title="Dev PicklesSolution Crunchbase Png">
             </div>
             <div class="client-logo" style="cursor: pointer;"
-                onclick="window.open('https://www.trustpilot.com/review/hoisolutions.com','new_window');">
+                onclick="window.open('https://www.trustpilot.com/review/devpickles.com','new_window');">
                 <img class="lazy" src="assets/images/home/trustpilot.png" alt="Dev Pickles Trustpilot Profile"
                     title="Dev PicklesSolution Trustpilot Png">
             </div>
             <div class="client-logo" style="cursor: pointer;"
-                onclick="window.open('https://www.thumbtack.com/ca/newport-beach/web-design/hoi-solutions-award-winning-agency/service/445210545835835397','new_window');">
+                onclick="window.open('https://www.thumbtack.com/ca/newport-beach/web-design/-award-winning-agency/service/445210545835835397','new_window');">
                 <img class="lazy" src="assets/images/home/thumb.png" alt="Dev Pickles Thumbtack Profile"
                     title="Dev PicklesSolution Thumbtack Png">
             </div>
@@ -491,7 +490,7 @@
                             </div>
                         </div>
                     </div>
-                   
+
                 </div>
             </div>
         </div>
