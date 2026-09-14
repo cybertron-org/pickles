@@ -45,17 +45,17 @@ function sendEmails($name, $email, $adminSubject, $adminBody)
     $mail = new PHPMailer(true);
     try {
         $mail->isSMTP();
-        $mail->Host = '.hostinger.com'; // Replace with your SMTP host
+        $mail->Host = env_config('DEV_PICKLES_SMTP_HOST');
         $mail->SMTPAuth = true;
-        $mail->Username = 'info@devpickles.com'; // email
-        $mail->Password = 'CybertronLabs@2026'; // password
+        $mail->Username = env_config('DEV_PICKLES_SMTP_USERNAME');
+        $mail->Password = env_config('DEV_PICKLES_SMTP_PASSWORD');
         $mail->SMTPSecure = 'tls';
-        $mail->Port = 587;
+        $mail->Port = (int) env_config('DEV_PICKLES_SMTP_PORT', 587);
 
-        $mail->setFrom('info@devpickles.com', 'Dev Pickles');
+        $mail->setFrom(env_config('DEV_PICKLES_MAIL_FROM_ADDRESS'), 'Dev Pickles');
 
         // Admin email
-        $mail->addAddress('info@devpickles.com', 'Dev Pickles');
+        $mail->addAddress(env_config('DEV_PICKLES_MAIL_FROM_ADDRESS'), 'Dev Pickles');
         $mail->isHTML(true);
         $mail->Subject = $adminSubject;
         $mail->Body = $adminBody;
@@ -853,7 +853,7 @@ function illustrativeForm($payload, $con)
             // SLACK NOTIFICATION
 
             $slackContent = json_encode(array("text" => "Hi Team , \n\t We have received a new lead . Please check the following details.  \n \n Page : " . $payload['page'] . " \n Name : " . $payload['name'] . " \n Email : " . $payload['email'] . " \n Phone : " . $payload['phone'] . " \n Message : " . $message));
-            sendSlack($slackContent, 'https://hooks.slack.com/services/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');
+            sendSlack($slackContent, env_config('SLACK_ILLUSTRATION_WEBHOOK_URL'));
 
         } catch (Exception $e) {
             die($e->getMessage());
@@ -878,14 +878,14 @@ function sendEmail(
     // === 1. Send Lead to You ===
     $mail = new PHPMailer;
     $mail->isSMTP();
-    $mail->Host = 'smtp.hostinger.com';
-    $mail->Port = 587;
+    $mail->Host = env_config('DEV_PICKLES_SMTP_HOST');
+    $mail->Port = (int) env_config('DEV_PICKLES_SMTP_PORT', 587);
     $mail->SMTPDebug = 0;
     $mail->SMTPAuth = true;
-    $mail->Username = 'info@devpickles.com';
-    $mail->Password = 'CybertronLabs@2026';
+    $mail->Username = env_config('DEV_PICKLES_SMTP_USERNAME');
+    $mail->Password = env_config('DEV_PICKLES_SMTP_PASSWORD');
     $mail->isHTML(true);
-    $mail->setFrom('info@devpickles.com', $fromName);
+    $mail->setFrom(env_config('DEV_PICKLES_MAIL_FROM_ADDRESS'), $fromName);
     $mail->addAddress($to);
     $mail->addCC($cc1);
     $mail->Subject = $subject;
@@ -899,14 +899,14 @@ function sendEmail(
     if (!empty($userEmail) && filter_var($userEmail, FILTER_VALIDATE_EMAIL)) {
         $autoReply = new PHPMailer;
         $autoReply->isSMTP();
-        $autoReply->Host = 'smtp.hostinger.com';
-        $autoReply->Port = 587;
+        $autoReply->Host = env_config('DEV_PICKLES_SMTP_HOST');
+        $autoReply->Port = (int) env_config('DEV_PICKLES_SMTP_PORT', 587);
         $autoReply->SMTPDebug = 0;
         $autoReply->SMTPAuth = true;
-        $autoReply->Username = 'info@devpickles.com';
-        $autoReply->Password = 'CybertronLabs@2026';
+        $autoReply->Username = env_config('DEV_PICKLES_SMTP_USERNAME');
+        $autoReply->Password = env_config('DEV_PICKLES_SMTP_PASSWORD');
         $autoReply->isHTML(true);
-        $autoReply->setFrom('info@devpickles.com', $fromName);
+        $autoReply->setFrom(env_config('DEV_PICKLES_MAIL_FROM_ADDRESS'), $fromName);
         $autoReply->addAddress($userEmail);
         $autoReply->Subject = 'Dev Pickles has Received Your Message!';
         $autoReply->Body = "
@@ -932,14 +932,14 @@ function sendMultipleEmail($message, $subject = 'Lead from noreply@hoisolutions.
 {
     $mail = new PHPMailer;
     $mail->IsSMTP();
-    $mail->Host = 'mail.hoisolutions.com';
-    $mail->Port = 587;
+    $mail->Host = env_config('HOI_SMTP_HOST');
+    $mail->Port = (int) env_config('HOI_SMTP_PORT', 587);
     $mail->SMTPDebug = 0;
     $mail->SMTPAuth = true;
-    $mail->Username = 'noreply@hoisolutions.com';
-    $mail->Password = 'w14(xmq{w53F';
+    $mail->Username = env_config('HOI_SMTP_USERNAME');
+    $mail->Password = env_config('HOI_SMTP_PASSWORD');
     $mail->isHTML(true);
-    $mail->From = 'noreply@hoisolutions.com';
+    $mail->From = env_config('HOI_MAIL_FROM_ADDRESS');
     $mail->FromName = $fromName;
     $mail->AddAddress($to);
     // $mail->AddAddress($to2);
@@ -959,14 +959,14 @@ function sendEmailIllustration($message, $subject = 'Lead from noreply@hoisoluti
 
     $mail = new PHPMailer;
     $mail->IsSMTP();
-    $mail->Host = 'mail.hoisolutions.com';
-    $mail->Port = 587;
+    $mail->Host = env_config('HOI_SMTP_HOST');
+    $mail->Port = (int) env_config('HOI_SMTP_PORT', 587);
     $mail->SMTPDebug = 0;
     $mail->SMTPAuth = true;
-    $mail->Username = 'noreply@hoisolutions.com';
-    $mail->Password = 'w14(xmq{w53F';
+    $mail->Username = env_config('HOI_SMTP_USERNAME');
+    $mail->Password = env_config('HOI_SMTP_PASSWORD');
     $mail->isHTML(true);
-    $mail->From = 'noreply@hoisolutions.com';
+    $mail->From = env_config('HOI_MAIL_FROM_ADDRESS');
     $mail->FromName = $fromName;
     $mail->AddAddress($to);
     $mail->AddCC($cc1);
@@ -983,14 +983,14 @@ function sendEmailIllustration($message, $subject = 'Lead from noreply@hoisoluti
     $autoReplyMessage = "Thank you for getting in touch with Dev Pickles! Your message has been received, and we appreciate your interest. Our team is currently reviewing your inquiry and will get back to you as soon as possible.";
     $autoReply = new PHPMailer;
     $autoReply->isSMTP();
-    $autoReply->Host = 'mail.hoisolutions.com';
-    $autoReply->Port = 587;
+    $autoReply->Host = env_config('HOI_SMTP_HOST');
+    $autoReply->Port = (int) env_config('HOI_SMTP_PORT', 587);
     $autoReply->SMTPDebug = 0;
     $autoReply->SMTPAuth = true;
-    $autoReply->Username = 'noreply@hoisolutions.com';
-    $autoReply->Password = 'w14(xmq{w53F';
+    $autoReply->Username = env_config('HOI_SMTP_USERNAME');
+    $autoReply->Password = env_config('HOI_SMTP_PASSWORD');
     $autoReply->isHTML(true);
-    $autoReply->From = 'noreply@hoisolutions.com';
+    $autoReply->From = env_config('HOI_MAIL_FROM_ADDRESS');
     $autoReply->FromName = $fromName;
     $autoReply->AddAddress($_POST["email"]);  // Send auto-reply to the same person who submitted the form	
     $autoReply->Subject = $autoReplySubject;
@@ -999,10 +999,15 @@ function sendEmailIllustration($message, $subject = 'Lead from noreply@hoisoluti
 }
 
 //SEND SLACK
-function sendSlack($data)
+function sendSlack($data, $webhookUrl = null)
 {
+    $webhookUrl = $webhookUrl ?: env_config('SLACK_WEBHOOK_URL');
+    if ($webhookUrl === '') {
+        return false;
+    }
+
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, 'https://hooks.slack.com/services/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');
+    curl_setopt($ch, CURLOPT_URL, $webhookUrl);
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS, ['payload' => $data]);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);

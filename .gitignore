@@ -1,1 +1,4 @@
 _LandingPages/
+.env
+.env.*
+!.env.example
