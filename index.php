@@ -12,7 +12,7 @@
     <div class="container-fluid">
         <div class="banner-content pb-20 sm-pt-130 tb-pt-180">
             <h1 class="fs-55 fs-20m tb-fs-40 text-center z-index-1 text-white wow fadeInUp">
-                <span class="web-color">Building Bold Ideas </span><br>Powerful Digital 
+                <span class="web-color">Building Bold Ideas </span><br>Powerful Digital Solutions
 
             </h1>
             <div class="col-lg-6 offset-lg-3">
